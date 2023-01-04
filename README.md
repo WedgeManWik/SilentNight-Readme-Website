@@ -32,10 +32,15 @@ The Blood Rain Fortress is located high up in the mountains, and inside the fort
 Player Movement is controlled with a mouse, right clicking on the ground will make the player move to that location.
 
 The player has four attacks: 
+
 Basic Attack - Q
+
 Fast Attack - W
+
 Power Attack - E
+
 Ultimate Attack - R
+
 
 Each of these attacks has their unique characteristics, and are useful in their own special cases:
 

@@ -11,7 +11,6 @@ I created this game for one of my University assignments. We were learning and g
 Silent Night is a Japanese-style Top-Down single-player Stealth game. 
 The player’s aim is to sneak through a fort filled with enemy guards in aim to get to the Main Boss and  assassinate him - the player has been given a time limit of 10 minutes to find the boss and kill him.
 The player can use various things like bushes and drain systems to sneak around the map to help with not getting spotted.
-![image](https://user-images.githubusercontent.com/92025939/210618055-b6e64347-33f7-49d1-b078-5d05bcedd53a.png)
 
 ### The Story
 

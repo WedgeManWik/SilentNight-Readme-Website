@@ -2,7 +2,7 @@
 
 Creating my first Top-Down Stealth Game in Unity.
 
-![Infected](https://github.com/WedgeManWik/Infected-Readme-Website/blob/main/Infected.PNG?raw=true)
+![Silent Night](https://github.com/WedgeManWik/SilentNight-Readme-Website/blob/main/Banner2.PNG?raw=true)
 
 I created this game for one of my University assignments. We were learning and getting introduced to using Unity, which I found to be a very interesting learning experience. With the various tools provided by Unity, help from lecturers and some video tutorials I managed to create this game in 10 weeks.
 
